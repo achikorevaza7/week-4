@@ -1,0 +1,157 @@
+  
+    *{
+        margin: 0;
+        box-sizing: border-box;
+    }
+    a{
+        text-decoration: none;
+        list-style-type: none;
+    }
+    .ragaca{
+        width: 30%;
+        background-color: yellow;
+        height: 50px;
+    }
+    .ragaca a{
+        padding-left: 40px;
+        justify-content: flex-start;
+    }
+    nav{
+        width: 40%;
+        background-color: gray;
+        height: 50px;
+    }
+    ul{
+        display: flex;
+    }
+    li{
+        margin-left: 30px;
+        list-style-type: none;
+        
+    }
+    nav ul li a:hover{
+        color: red;
+    }
+    header{
+        display: flex;
+    }
+    .social {
+        width: 30%;
+        background-color: green;
+        height: 50px;
+        justify-content: center;
+        display: flex;
+        justify-content: flex-end;
+        padding-top: 15px;
+        padding-right: 40px;
+    }
+    .social a{
+        padding-right: 10px;
+    }
+    .ulshua{
+        height: 50px;
+        justify-content: center;
+        display: flex;
+        justify-content: center;
+        padding-top: 15px;
+        padding-right: 40px;
+    }
+
+    .dasaflexi{
+        display: flex; 
+        background-color:white;
+      justify-content: space-between;
+    }
+
+    .ragaca1{
+        margin-top: -30px;
+        margin-left: 40%;
+    }
+    .ragaca1 h1{
+        text-align: center;
+        background-color: white;
+        position: relative;
+        width: 33%;
+        border-radius: 5px;
+    }
+    .photo{
+        display: flex;
+        justify-content: space-between;
+    }
+    .real{
+        padding-left: 15%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 60%;
+        /* background-color: blueviolet; */
+    }
+    .realPhoto{
+        /* background-color: aqua; */
+margin-bottom: 15px;
+width: 100%;
+        display: flex;
+    }
+    .txt{
+padding-left:  20px;
+padding-top: 50px;
+
+    }
+    .txt h3{
+       font-weight:bold;
+    }
+    .otherdiv{
+        width: 30%;
+    }
+    .mainflex{
+        display: flex;
+    }
+
+.inputistvis{
+   
+    background-color: brown;
+    width: 80%;
+    height: 300px;
+    padding: 10%;
+}
+.inputistvis h1{
+    text-align: center;
+}
+.ema{
+    width: 60%;
+    padding-left: 30px;
+    padding-top: 80px;
+}
+.sub{
+    width: 100%;
+    padding-left: 45px;
+}
+.tipe{
+   background-color: brown;
+}
+.social1 :hover{
+    display: flex 20px;
+    color: brown;
+}
+.ach{
+
+    padding-top: 300px;
+}
+.social :hover{
+color: yellow;
+
+}
+.ragaca a :hover{
+
+    color: rgb(128, 0, 0);
+}
+.fin{
+    height: 40px;
+padding-top: 20px;
+ padding-left: 40%;
+}
+
+.subbm{
+    display: flex;
+    flex-direction: column;
+}
